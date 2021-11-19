@@ -1,0 +1,57 @@
+[[main]]
+  name = "ホーム"
+  url = ""
+  weight = -110
+
+[[main]]
+  name = "アーカイブ"
+  url = "post/rich-content/"
+  weight = -109
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "リンク"
+  identifier = "Links"
+  weight = -108
+[[main]]
+  parent = "Links"
+  name = "BOOTH"
+  url = "https://gatosyocora.booth.pm/"
+[[main]]
+  parent = "Links"
+  name = "Wiki"
+  url = "https://gatosyocora.memo.wiki/"
+[[main]]
+  parent = "Links"
+  name = "Qiita"
+  url = "https://qiita.com/gatosyocora/"
+
+[[main]]
+  name = "このページについて"
+  url = "about/"
+  weight = -107
+
+# social menu links
+
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/gatosyocora"
+[[social]]
+  name = "twitter"
+  type = "social"
+  weight = 2
+  url = "https://twitter.com/gatosyocora"
+
+# other supported social links
+# name = "youtube"
+# url = "https://www.youtube.com/#"
+# name = "facebook"
+# url = "https://facebook.com/#"
+# name = "instagram"
+# url = "https://instagram.com/#"
+# name = "stackoverflow"
+# url = "https://stackoverflow.com/#"
+# name = "gitlab"
+# url = "https://gitlab.com/#"

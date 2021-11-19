@@ -1,5 +1,6 @@
 baseURL = 'https://blog.gatosyocora.net/'
 languageCode = 'ja'
+DefaultContentLanguage = "ja"
 title = 'がとーしょこらのブログ'
 copyright = "Copyright © 2021, Steve Francia and the Hugo Authors; all rights reserved."
 publishDir = 'docs'
