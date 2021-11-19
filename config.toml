@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
+languageCode = 'ja'
 title = 'My New Hugo Site'
 publishDir = 'docs'
