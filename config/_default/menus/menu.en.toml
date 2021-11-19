@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Archives"
-  url = "post/rich-content/"
+  url = "post"
   weight = -109
 
 # Submenus are done this way: parent -> identifier
