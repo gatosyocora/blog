@@ -9,9 +9,6 @@ introDescription = "UnityでVR関連のことをやっています"
 # Google analytics Id
 ga_analytics = "XXXXXXXXXX"
 
-# Baidu analytics Id
-# baidu_analytics = "XXXXXXXX"
-
 # limit the number of taxonomies links shown on the sidebar of each page by default.
 numberOfTagsShown = 14 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy
 
@@ -85,15 +82,3 @@ iconsDir = "icons/" # without a leading forward slash
 [author]
 name = "gatosyocora"
 # photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
-
-[plausible_analytics]
-enable = false # to enable plausible analytics set to true.
-websiteDomain = "example.com" # domain name of your website, most cases same as your base url
-# plausibleDomain = "plausible.io" # default is set to plausible.io, only required if plausible is selfhosted
-# scritpName = "plausible" # default is set to plausible, only required if using a custome name for script
-
-[matomo_analytics]
-enable = false # To enable matomo analytics change to `true`.
-websiteDomain = "example.com" # Set the domain name of your website, in most cases same as your base URL this is required.
-matomoDomain = "matomo.example.com" # Set to Matomo domain
-matomoSiteID = "1" # Default is set to 1, change this to the siteid being tracked
