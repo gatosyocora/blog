@@ -15,8 +15,16 @@
   weight = -108
 [[main]]
   parent = "Links"
-  name = "Twitter"
-  url = "https://twitter.com/"
+  name = "BOOTH"
+  url = "https://gatosyocora.booth.pm/"
+[[main]]
+  parent = "Links"
+  name = "Wiki"
+  url = "https://gatosyocora.memo.wiki/"
+[[main]]
+  parent = "Links"
+  name = "Qiita"
+  url = "https://qiita.com/gatosyocora/"
 
 [[main]]
   name = "About"
