@@ -1,28 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>がとーしょこらのブログ</title>
-    <link>https://blog.gatosyocora.net/</link>
-    <description>Recent content on がとーしょこらのブログ</description>
+    <title>Unity2019 on がとーしょこらのブログ</title>
+    <link>https://blog.gatosyocora.net/tags/unity2019/</link>
+    <description>Recent content in Unity2019 on がとーしょこらのブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>Copyright © 2021, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.gatosyocora.net/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ブログを移行しました</title>
-      <link>https://blog.gatosyocora.net/post/first/</link>
-      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.gatosyocora.net/post/first/</guid>
-      <description>
-        
-          &lt;p&gt;ブログを移行しました。今後はこちらで記事を公開していきます。&lt;/p&gt;
-&lt;p&gt;今までの記事もこちらに移動予定です。&lt;/p&gt;
-
-        
-      </description>
-    </item>
-    
+    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.gatosyocora.net/tags/unity2019/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Editor拡張的にみたUnity2019でできるようになること</title>
       <link>https://blog.gatosyocora.net/post/unity2019_editor_extension/</link>

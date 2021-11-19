@@ -1,8 +1,8 @@
 
 <!DOCTYPE html>
-<html lang="en" data-figures="">
+<html lang="en" data-figures="" class="page">
   <head>
-<title>Posts | がとーしょこらのブログ</title>
+<title>Editor拡張的にみたUnity2019でできるようになること | がとーしょこらのブログ</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -17,21 +17,26 @@
 <meta property="og:locale" content="en" />
 
 <meta property="og:type" content="article">
-<meta name="description" content="">
+<meta name="description" content="VRChatで使用しているUnityEditorのバージョンが2018.4.20f1から2019.4.28f1になります。
+Unity2019になったときにUnityEditor拡張的にはどのようなことができるようになるかを調べてまとめてました。
+他にも見つかれば追記していきます。
+新機能 UIElements …">
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@gatosyocora">
-<meta name="twitter:title" content="Posts" />
-<meta property="og:url" content="https://blog.gatosyocora.net/post/" />
-<meta property="og:title" content="Posts" />
-<meta property="og:description" content="" />
+<meta name="twitter:title" content="Editor拡張的にみたUnity2019でできるようになること" />
+<meta property="og:url" content="https://blog.gatosyocora.net/post/unity2019_editor_extension/" />
+<meta property="og:title" content="Editor拡張的にみたUnity2019でできるようになること" />
+<meta property="og:description" content="VRChatで使用しているUnityEditorのバージョンが2018.4.20f1から2019.4.28f1になります。
+Unity2019になったときにUnityEditor拡張的にはどのようなことができるようになるかを調べてまとめてました。
+他にも見つかれば追記していきます。
+新機能 UIElements …" />
 <meta property="og:image" content="https://blog.gatosyocora.net/images/thumbnail.png" />
 
 <link rel="apple-touch-icon" sizes="180x180" href="https://blog.gatosyocora.net/icons/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://blog.gatosyocora.net/icons/favicon-32x32.png">
 <link rel="manifest" href="https://blog.gatosyocora.net/icons/site.webmanifest">
 
-<link rel="canonical" href="https://blog.gatosyocora.net/post/">
-<link rel="alternate" type="application/rss+xml" href="https://blog.gatosyocora.net/post/index.xml" title="がとーしょこらのブログ" />
+<link rel="canonical" href="https://blog.gatosyocora.net/post/unity2019_editor_extension/">
 
     
 
@@ -71,7 +76,7 @@
   <div class="nav_parent">
     <a href="https://blog.gatosyocora.net/" class="nav_item" title="Home">Home </a>
   </div>
-  <div class="nav_parent nav_active">
+  <div class="nav_parent">
     <a href="https://blog.gatosyocora.net/post" class="nav_item" title="Archives">Archives </a>
   </div>
   <div class="nav_parent">
@@ -121,72 +126,10 @@
 </header>
 
     <main>
-
+  
 <div class="grid-inverse wrap content">
-  <ul class="posts" id="posts">
-      <li class="post_item">
-  <div class="excerpt">
-    <div class="excerpt_header">
-      <h3 class="post_link">
-        <a href="https://blog.gatosyocora.net/post/first/" title="ブログを移行しました">ブログを移行しました</a>
-      </h3>
-      
-  <div class="post_meta">
-    <span><svg class="icon">
-  <use xlink:href="#calendar"></use>
-</svg></span>
-    <span class="post_date">
-      Nov 19, 2021</span>
-    <span class="post_time"> · 1 min read</span>
-    <span class="page_only">&nbsp;·
-  <div class="post_share">
-    Share on:
-    <a href="https://twitter.com/intent/tweet?text=%e3%83%96%e3%83%ad%e3%82%b0%e3%82%92%e7%a7%bb%e8%a1%8c%e3%81%97%e3%81%be%e3%81%97%e3%81%9f&url=https%3a%2f%2fblog.gatosyocora.net%2fpost%2ffirst%2f&tw_p=tweetbutton" class="twitter" title="Share on Twitter" target="_blank" rel="nofollow">
-      <svg class="icon">
-  <use xlink:href="#twitter"></use>
-</svg>
-    </a>
-    <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fblog.gatosyocora.net%2fpost%2ffirst%2f&t=%e3%83%96%e3%83%ad%e3%82%b0%e3%82%92%e7%a7%bb%e8%a1%8c%e3%81%97%e3%81%be%e3%81%97%e3%81%9f" class="facebook" title="Share on Facebook" target="_blank" rel="nofollow">
-      <svg class="icon">
-  <use xlink:href="#facebook"></use>
-</svg>
-    </a>
-    <a href="#linkedinshare" id = "linkedinshare" class="linkedin" title="Share on LinkedIn" rel="nofollow">
-      <svg class="icon">
-  <use xlink:href="#linkedin"></use>
-</svg>
-    </a>
-    <a href="https://blog.gatosyocora.net/post/first/" title="Copy Link" class="link link_yank">
-      <svg class="icon">
-  <use xlink:href="#copy"></use>
-</svg>
-    </a>
-  </div>
-  </span>
-  </div>
-
-    </div>
-      <div class="excerpt_footer">
-        <div>
-          <p class="pale">
-            
-              ブログを移行しました。今後はこちらで記事を公開していきます。
-今までの記事もこちらに移動予定です。
-            
-          </p>
-          <a href="https://blog.gatosyocora.net/post/first/" title="Read More" class="excerpt_more button">Read More</a>
-        </div>
-      </div>
-    </div>
-  </li>
-
-      <li class="post_item">
-  <div class="excerpt">
-    <div class="excerpt_header">
-      <h3 class="post_link">
-        <a href="https://blog.gatosyocora.net/post/unity2019_editor_extension/" title="Editor拡張的にみたUnity2019でできるようになること">Editor拡張的にみたUnity2019でできるようになること</a>
-      </h3>
-      
+  <article class="post_content">
+    <h1 class="post_title">Editor拡張的にみたUnity2019でできるようになること</h1>
   <div class="post_meta">
     <span><svg class="icon">
   <use xlink:href="#calendar"></use>
@@ -225,28 +168,63 @@
   </span>
   </div>
 
-    </div>
-      <div class="excerpt_footer">
-        <div>
-          <p class="pale">
-            
-              VRChatで使用しているUnityEditorのバージョンが2018.4.20f1から2019.4.28f1になります。
-Unity2019になったときにUnityEditor拡張的にはどのようなことができるようになるかを調べてまとめてました。
-他にも見つかれば追記していきます。
-新機能 UIElements Editor拡張のGUI部分をXAML的な記法で作ることができるようになりました。
-従来の作り方でも作ることができますが、GUI作成を支援する機能も備わっているので移行するのはありだと思います。
-ちなみにもっと後のUnityのバージョンではこの名称はUI Toolkitに変わっているようです。 …
-            
-          </p>
-          <a href="https://blog.gatosyocora.net/post/unity2019_editor_extension/" title="Read More" class="excerpt_more button">Read More</a>
-        </div>
-      </div>
-    </div>
-  </li>
+    
+    <p>VRChatで使用しているUnityEditorのバージョンが2018.4.20f1から2019.4.28f1になります。<br>
+Unity2019になったときにUnityEditor拡張的にはどのようなことができるようになるかを調べてまとめてました。<br>
+他にも見つかれば追記していきます。</p>
+<h1 id="新機能">新機能</h1>
+<h2 id="uielements">UIElements</h2>
+<p>Editor拡張のGUI部分をXAML的な記法で作ることができるようになりました。<br>
+従来の作り方でも作ることができますが、GUI作成を支援する機能も備わっているので移行するのはありだと思います。<br>
+ちなみにもっと後のUnityのバージョンではこの名称は<code>UI Toolkit</code>に変わっているようです。</p>
+<p><a href="https://docs.unity3d.com/ja/2019.4/Manual/UIElements.html">https://docs.unity3d.com/ja/2019.4/Manual/UIElements.html</a></p>
+<h2 id="unity-package-manager-upm">Unity Package Manager (UPM)</h2>
+<p>プロジェクト内のUnityPackageを管理できる機能です。<br>
+この機能を使用してインポートしたUnityPackageが管理されます。<br>
+管理されているUnityPackageは新しいバージョンがあるとこの機能の画面から最新バージョンをインストールできます。
+<a href="https://docs.unity3d.com/ja/2019.4/Manual/Packages.html">https://docs.unity3d.com/ja/2019.4/Manual/Packages.html</a></p>
+<h2 id="addressable-asset-system">Addressable Asset System</h2>
+<p>リソースを読み込むための新しい方法が増えました。<br>
+従来の<code>Resources.Load</code>に変わる方法として提案されています。<br>
+この機能を使用するにはPackageManagerでこの機能を追加するためのUnityPackageをインポートする必要があるようです。</p>
+<p><a href="https://docs.unity3d.com/ja/2019.4/Manual/com.unity.addressables.html">https://docs.unity3d.com/ja/2019.4/Manual/com.unity.addressables.html</a></p>
+<h2 id="editortools">EditorTools</h2>
+<p>SceneView上でGameObjectやComponentを操作しやすくする機能を実装するためのAPIが増えました。</p>
+<p><a href="https://learning.unity3d.jp/5002/">https://learning.unity3d.jp/5002/</a></p>
+<p><a href="https://blog.yucchiy.com/2020/09/editor-tools/">https://blog.yucchiy.com/2020/09/editor-tools/</a></p>
+<h1 id="変更点">変更点</h1>
+<h2 id="assetdatabase-v2-experimental">AssetDatabase V2 (Experimental)</h2>
+<p>V2ということで内部的に大幅変更されてそうです。<br>
+しかし、V1と同じAPIを使用できるので、この変更で関連するスクリプトを変更する必要はないようです。<br>
+GUIDの持ち方は変わるみたいなのでGUIDのファイルを直接参照するようなものは変更する必要があるかもしれないですね。<br>
+また、キャッシュサーバーを使ってインポートやプラットフォーム切り替えを高速化するようですが、そのために<code>Unity Accelerator</code>を使用するようです。</p>
+<p><a href="https://learning.unity3d.jp/4584/">https://learning.unity3d.jp/4584/</a></p>
+<h2 id="editorstyles">EditorStyles</h2>
+<p>新しく使えるようになったスタイルがあったり、全体的に見た目が変わっていたりします。</p>
+<h3 id="新しく使えるようになったもの">新しく使えるようになったもの</h3>
+<ul>
+<li>EditorStyles.linkLabel</li>
+<li>EditorStyles.foldoutHeader</li>
+<li>EditorStyles.foldoutHeaderIcon</li>
+<li>EditorStyles.toolbarSearchField</li>
+</ul>
+<p><a href="https://hacchi-man.hatenablog.com/entry/2020/04/05/220000">https://hacchi-man.hatenablog.com/entry/2020/04/05/220000</a></p>
+<h1 id="廃止obsolete">廃止(Obsolete)</h1>
+<ul>
+<li>SceneView#onSceneGUIDelegate
+<ul>
+<li>
+<p><a href="https://github.com/Unity-Technologies/UnityCsReference/blob/86305f755ec65987bd8de18f3e38bc608adc0ba3/Editor/Mono/SceneView/SceneView.cs#L368">https://github.com/Unity-Technologies/UnityCsReference/blob/86305f755ec65987bd8de18f3e38bc608adc0ba3/Editor/Mono/SceneView/SceneView.cs#L368</a></p>
+</li>
+<li>
+<p>代わりに SceneView#duringSceneGuiか SceneView#beforeSceneGuiを使う</p>
+</li>
+</ul>
+</li>
+</ul>
 
-    <li>
-    </li>
-  </ul>
+
+  </article>
 <aside class="sidebar">
   <section class="sidebar_inner">
         <div class="author_header">
@@ -261,9 +239,6 @@ Unity2019になったときにUnityEditor拡張的にはどのようなことが
     <ul class="flex-column">
       <li>
         <a href="https://blog.gatosyocora.net/post/first/" class="nav-link" title="ブログを移行しました">ブログを移行しました</a>
-      </li>
-      <li>
-        <a href="https://blog.gatosyocora.net/post/unity2019_editor_extension/" class="nav-link" title="Editor拡張的にみたUnity2019でできるようになること">Editor拡張的にみたUnity2019でできるようになること</a>
       </li>
     </ul>
     <div>
@@ -301,9 +276,8 @@ Unity2019になったときにUnityEditor拡張的にはどのようなことが
   </section>
 </aside>
 
+  
 </div>
-
-
     </main><svg width="0" height="0" class="hidden">
   <symbol viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" id="facebook">
     <path d="M437 0H75C33.648 0 0 33.648 0 75v362c0 41.352 33.648 75 75 75h151V331h-60v-90h60v-61c0-49.629 40.371-90 90-90h91v90h-91v61h91l-15 90h-76v181h121c41.352 0 75-33.648 75-75V75c0-41.352-33.648-75-75-75zm0 0"></path>

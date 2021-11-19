@@ -40,6 +40,31 @@
     <loc>https://blog.gatosyocora.net/post/first/</loc>
     <lastmod>2021-11-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://blog.gatosyocora.net/tags/editor%E6%8B%A1%E5%BC%B5/</loc>
+    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.gatosyocora.net/post/unity2019_editor_extension/</loc>
+    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.gatosyocora.net/tags/</loc>
+    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://blog.gatosyocora.net/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.gatosyocora.net/tags/"
+                />
+  </url><url>
+    <loc>https://blog.gatosyocora.net/tags/unity/</loc>
+    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.gatosyocora.net/tags/unity2019/</loc>
+    <lastmod>2021-07-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.gatosyocora.net/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -53,18 +78,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://blog.gatosyocora.net/series/"
-                />
-  </url><url>
-    <loc>https://blog.gatosyocora.net/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://blog.gatosyocora.net/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.gatosyocora.net/tags/"
                 />
   </url>
 </urlset>
