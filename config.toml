@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://blog.gatosyocora.net/'
 languageCode = 'ja'
 title = 'がとーしょこらのブログ'
 publishDir = 'docs'
