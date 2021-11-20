@@ -9,7 +9,7 @@ hasCJKLanguage = false
 summaryLength = 70
 buildFuture = true
 
-copyright = "Copyright © 2021, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Copyright © 2021, gatosyocora; all rights reserved."
 timeout = 30000
 enableEmoji = true
 paginate = 10
