@@ -20,14 +20,7 @@ googleAnalytics = "G-KP1JBN07MT"
 
 languageCode = 'ja'
 publishDir = 'docs'
-# canonifyurls = true
 disqusShortname = ""
-
-# [languages]
-# config/_default/languages.toml
-
-# [menus]
-# config/_default/menus/menu.xx.toml
 
 [taxonomies]
 category = "categories"
