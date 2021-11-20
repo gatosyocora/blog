@@ -4,7 +4,7 @@ logo = false
 description = "gatosyocora's technical blog"
 cuctom_css = []
 custom_js = []
-useFaviconGenerator = false
+useFaviconGenerator = true
 languagedir = "ltr"
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
