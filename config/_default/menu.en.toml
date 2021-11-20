@@ -35,16 +35,3 @@
   name = "About"
   url = "about"
   weight = -107
-
-# social menu links
-
-[[social]]
-  name = "github"
-  type = "social"
-  weight = 1
-  url = "https://github.com/gatosyocora"
-[[social]]
-  name = "twitter"
-  type = "social"
-  weight = 2
-  url = "https://twitter.com/gatosyocora"
