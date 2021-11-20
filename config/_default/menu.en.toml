@@ -4,9 +4,9 @@
   weight = -110
 
 [[main]]
-  identifier = "archive"
-  name = "Archives"
-  url = "archive"
+  identifier = "posts"
+  name = "Posts"
+  url = "posts"
   weight = -109
 
 # Submenus are done this way: parent -> identifier
