@@ -7,7 +7,7 @@ publishDir = 'docs'
 
 # canonifyurls = true
 paginate = 10
-theme = "hugo-clarity"
+theme = "zzo"
 disqusShortname = ""
 
 # [languages]
