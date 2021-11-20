@@ -9,28 +9,6 @@
   url = "posts"
   weight = -109
 
-# Submenus are done this way: parent -> identifier
-[[main]]
-  name = "Links"
-  identifier = "Links"
-  weight = -108
-[[main]]
-  parent = "Links"
-  name = "BOOTH"
-  url = "https://gatosyocora.booth.pm/"
-[[main]]
-  parent = "Links"
-  name = "Wiki"
-  url = "https://gatosyocora.memo.wiki/"
-[[main]]
-  parent = "Links"
-  name = "Qiita"
-  url = "https://qiita.com/gatosyocora/"
-[[main]]
-  parent = "Links"
-  name = "FANBOX"
-  url = "https://gatosyocora.fanbox.cc/"
-
 [[main]]
   identifier = "about"
   name = "About"
