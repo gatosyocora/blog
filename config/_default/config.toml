@@ -2,10 +2,20 @@ baseURL = "https://blog.gatosyocora.net/"
 title = "がとーしょこらのブログ"
 theme = "zzo"
 
-# defaultContentLanguage = "ja"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+hasCJKLanguage = false
+
+summaryLength = 70
+buildFuture = true
 
 copyright = "Copyright © 2021, Steve Francia and the Hugo Authors; all rights reserved."
+enableEmoji = true
 paginate = 10
+rssLimit = 100
+
+enableGitInfo = false
+googleAnalytics = ""
 
 languageCode = 'ja'
 publishDir = 'docs'
