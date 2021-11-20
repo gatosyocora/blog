@@ -10,12 +10,13 @@ summaryLength = 70
 buildFuture = true
 
 copyright = "Copyright © 2021, Steve Francia and the Hugo Authors; all rights reserved."
+timeout = 30000
 enableEmoji = true
 paginate = 10
 rssLimit = 100
 
 enableGitInfo = false
-googleAnalytics = ""
+googleAnalytics = "G-KP1JBN07MT"
 
 languageCode = 'ja'
 publishDir = 'docs'
