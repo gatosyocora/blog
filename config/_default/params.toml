@@ -51,6 +51,7 @@ myname = "gatosyocora"
 email = "gatosyocora36@gmail.com"
 whoami = "Software Engineer"
 bioImageUrl = "images/icon_ukon.jpg"
+authorImage = "images/icon_ukon.jpg"
 useGravatar = false
 location = "Japan"
 organization = ""
