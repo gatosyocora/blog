@@ -1,5 +1,5 @@
-logoText = "Gatosyocora"
-logoType = "long"
+logoText = ""
+logoType = "short"
 logo = false
 description = "gatosyocora's technical blog"
 cuctom_css = []
