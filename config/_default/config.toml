@@ -1,13 +1,15 @@
-baseURL = 'https://blog.gatosyocora.net/'
-languageCode = 'ja'
-# DefaultContentLanguage = "ja"
-title = 'がとーしょこらのブログ'
-copyright = "Copyright © 2021, Steve Francia and the Hugo Authors; all rights reserved."
-publishDir = 'docs'
-
-# canonifyurls = true
-paginate = 10
+baseURL = "https://blog.gatosyocora.net/"
+title = "がとーしょこらのブログ"
 theme = "zzo"
+
+# defaultContentLanguage = "ja"
+
+copyright = "Copyright © 2021, Steve Francia and the Hugo Authors; all rights reserved."
+paginate = 10
+
+languageCode = 'ja'
+publishDir = 'docs'
+# canonifyurls = true
 disqusShortname = ""
 
 # [languages]
