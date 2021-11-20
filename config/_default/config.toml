@@ -22,6 +22,22 @@ languageCode = 'ja'
 publishDir = 'docs'
 disqusShortname = ""
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xHTML = false
+  [markup.highlight]
+    codeFences = true
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
 [outputs]
   home = ["HTML", "RSS", "SearchIndex"]
   section = ["HTML", "RSS", "SearchIndex"]
