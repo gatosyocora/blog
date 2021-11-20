@@ -1,6 +1,6 @@
 logoText = "Gatosyocora"
 logoType = "long"
-logo = true
+logo = false
 description = "gatosyocora's technical blog"
 cuctom_css = []
 custom_js = []
