@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Gatosyocora's Blog
     subtitle:
-      - The world’s fastest framework for building websites
+      - gatosyocora's technical blog
     titleColor: 
     titleShadow: true
     titleFontSize: 44
