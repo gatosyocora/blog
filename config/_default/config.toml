@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = false
 
-summaryLength = 70
+summaryLength = 5
 buildFuture = true
 
 copyright = "Copyright © 2021, gatosyocora; all rights reserved."
