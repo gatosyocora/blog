@@ -10,7 +10,7 @@ languagedir = "ltr"
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "showcase"]
-notAllowedTypesInArchive = ["about", "talks", "showcase"]
+notAllowedTypesInArchive = ["about", "talks", "showcase", "gallery"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 enablePinnedPosts = true
 
