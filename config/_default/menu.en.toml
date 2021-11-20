@@ -31,8 +31,9 @@
   url = "https://gatosyocora.fanbox.cc/"
 
 [[main]]
+  identifier = "about"
   name = "About"
-  url = "about/"
+  url = "about"
   weight = -107
 
 # social menu links
