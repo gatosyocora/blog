@@ -35,7 +35,7 @@ enableThemeChange = true # site color theme
 
 # body
 enableBreadcrumb = true
-enableSearch = true
+enableSearch = false
 enableSearchHighlight = true
 enableGoToTop = true
 enableWhoami = true
