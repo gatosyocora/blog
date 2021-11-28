@@ -1,6 +1,6 @@
-[en]
-  title = "gatosyocora's blog"
-  LanguageName = "English"
+[ja]
+  title = "がとーしょこらの技術録"
+  LanguageName = "Japanese"
   weight = 1
   languagedir = "ltr"
   contentdir = "content"
