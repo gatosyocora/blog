@@ -1,78 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Unity2019 on がとーしょこらのブログ</title>
+    <title>Unity2019 on gatosyocora&#39;s blog</title>
     <link>https://blog.gatosyocora.net/tags/unity2019/</link>
-    <description>Recent content in Unity2019 on がとーしょこらのブログ</description>
+    <description>Recent content in Unity2019 on gatosyocora&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>Copyright © 2021, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.gatosyocora.net/tags/unity2019/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Editor拡張的にみたUnity2019でできるようになること</title>
-      <link>https://blog.gatosyocora.net/post/unity2019_editor_extension/</link>
-      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.gatosyocora.net/post/unity2019_editor_extension/</guid>
-      <description>
-        
-          &lt;p&gt;VRChatで使用しているUnityEditorのバージョンが2018.4.20f1から2019.4.28f1になります。&lt;br&gt;
-Unity2019になったときにUnityEditor拡張的にはどのようなことができるようになるかを調べてまとめてました。&lt;br&gt;
-他にも見つかれば追記していきます。&lt;/p&gt;
-&lt;h1 id=&#34;新機能&#34;&gt;新機能&lt;/h1&gt;
-&lt;h2 id=&#34;uielements&#34;&gt;UIElements&lt;/h2&gt;
-&lt;p&gt;Editor拡張のGUI部分をXAML的な記法で作ることができるようになりました。&lt;br&gt;
-従来の作り方でも作ることができますが、GUI作成を支援する機能も備わっているので移行するのはありだと思います。&lt;br&gt;
-ちなみにもっと後のUnityのバージョンではこの名称は&lt;code&gt;UI Toolkit&lt;/code&gt;に変わっているようです。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.unity3d.com/ja/2019.4/Manual/UIElements.html&#34;&gt;https://docs.unity3d.com/ja/2019.4/Manual/UIElements.html&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;unity-package-manager-upm&#34;&gt;Unity Package Manager (UPM)&lt;/h2&gt;
-&lt;p&gt;プロジェクト内のUnityPackageを管理できる機能です。&lt;br&gt;
-この機能を使用してインポートしたUnityPackageが管理されます。&lt;br&gt;
-管理されているUnityPackageは新しいバージョンがあるとこの機能の画面から最新バージョンをインストールできます。
-&lt;a href=&#34;https://docs.unity3d.com/ja/2019.4/Manual/Packages.html&#34;&gt;https://docs.unity3d.com/ja/2019.4/Manual/Packages.html&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;addressable-asset-system&#34;&gt;Addressable Asset System&lt;/h2&gt;
-&lt;p&gt;リソースを読み込むための新しい方法が増えました。&lt;br&gt;
-従来の&lt;code&gt;Resources.Load&lt;/code&gt;に変わる方法として提案されています。&lt;br&gt;
-この機能を使用するにはPackageManagerでこの機能を追加するためのUnityPackageをインポートする必要があるようです。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.unity3d.com/ja/2019.4/Manual/com.unity.addressables.html&#34;&gt;https://docs.unity3d.com/ja/2019.4/Manual/com.unity.addressables.html&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;editortools&#34;&gt;EditorTools&lt;/h2&gt;
-&lt;p&gt;SceneView上でGameObjectやComponentを操作しやすくする機能を実装するためのAPIが増えました。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://learning.unity3d.jp/5002/&#34;&gt;https://learning.unity3d.jp/5002/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://blog.yucchiy.com/2020/09/editor-tools/&#34;&gt;https://blog.yucchiy.com/2020/09/editor-tools/&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;変更点&#34;&gt;変更点&lt;/h1&gt;
-&lt;h2 id=&#34;assetdatabase-v2-experimental&#34;&gt;AssetDatabase V2 (Experimental)&lt;/h2&gt;
-&lt;p&gt;V2ということで内部的に大幅変更されてそうです。&lt;br&gt;
-しかし、V1と同じAPIを使用できるので、この変更で関連するスクリプトを変更する必要はないようです。&lt;br&gt;
-GUIDの持ち方は変わるみたいなのでGUIDのファイルを直接参照するようなものは変更する必要があるかもしれないですね。&lt;br&gt;
-また、キャッシュサーバーを使ってインポートやプラットフォーム切り替えを高速化するようですが、そのために&lt;code&gt;Unity Accelerator&lt;/code&gt;を使用するようです。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://learning.unity3d.jp/4584/&#34;&gt;https://learning.unity3d.jp/4584/&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;editorstyles&#34;&gt;EditorStyles&lt;/h2&gt;
-&lt;p&gt;新しく使えるようになったスタイルがあったり、全体的に見た目が変わっていたりします。&lt;/p&gt;
-&lt;h3 id=&#34;新しく使えるようになったもの&#34;&gt;新しく使えるようになったもの&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;EditorStyles.linkLabel&lt;/li&gt;
-&lt;li&gt;EditorStyles.foldoutHeader&lt;/li&gt;
-&lt;li&gt;EditorStyles.foldoutHeaderIcon&lt;/li&gt;
-&lt;li&gt;EditorStyles.toolbarSearchField&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://hacchi-man.hatenablog.com/entry/2020/04/05/220000&#34;&gt;https://hacchi-man.hatenablog.com/entry/2020/04/05/220000&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;廃止obsolete&#34;&gt;廃止(Obsolete)&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;SceneView#onSceneGUIDelegate
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/Unity-Technologies/UnityCsReference/blob/86305f755ec65987bd8de18f3e38bc608adc0ba3/Editor/Mono/SceneView/SceneView.cs#L368&#34;&gt;https://github.com/Unity-Technologies/UnityCsReference/blob/86305f755ec65987bd8de18f3e38bc608adc0ba3/Editor/Mono/SceneView/SceneView.cs#L368&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;代わりに SceneView#duringSceneGuiか SceneView#beforeSceneGuiを使う&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+    <language>en</language>
+    <managingEditor>gatosyocora36@gmail.com (gatosyocora)</managingEditor>
+    <webMaster>gatosyocora36@gmail.com (gatosyocora)</webMaster>
+    <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.gatosyocora.net/tags/unity2019/index.xml" rel="self" type="application/rss+xml" />
+    
 
+      
+      <item>
+        <title>Editor拡張的にみたUnity2019でできるようになること</title>
+        <link>https://blog.gatosyocora.net/posts/unity2019_editor_extension/</link>
+        <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+        <author>gatosyocora36@gmail.com (gatosyocora)</author>
+        <atom:modified>Sat, 24 Jul 2021 00:00:00 +0000</atom:modified>
+        <guid>https://blog.gatosyocora.net/posts/unity2019_editor_extension/</guid>
+        <description>VRChatで使用しているUnityEditorのバージョンが2018.4.20f1から2019.4.28f1になります。
+Unity2019になったときにUnityEditor拡張的にはどのようなことができるようになるかを調べてまとめてました。
+他にも見つかれば追記していきます。
+新機能 UIElements Editor拡張のGUI部分をXAML的な記法で作ることができるようになりました。</description>
         
-      </description>
-    </item>
+        <dc:creator>gatosyocora</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Unity</category>
+            
+          
+            
+              <category>Editor拡張</category>
+            
+          
+            
+              <category>Unity2019</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
     
   </channel>
 </rss>

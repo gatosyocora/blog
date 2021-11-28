@@ -1,27 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>お知らせ on がとーしょこらのブログ</title>
+    <title>お知らせ on gatosyocora&#39;s blog</title>
     <link>https://blog.gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
-    <description>Recent content in お知らせ on がとーしょこらのブログ</description>
+    <description>Recent content in お知らせ on gatosyocora&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>Copyright © 2021, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ブログを移行しました</title>
-      <link>https://blog.gatosyocora.net/post/first/</link>
-      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.gatosyocora.net/post/first/</guid>
-      <description>
-        
-          &lt;p&gt;ブログを移行しました。今後はこちらで記事を公開していきます。&lt;/p&gt;
-&lt;p&gt;今までの記事もこちらに移動予定です。&lt;/p&gt;
+    <language>en</language>
+    <managingEditor>gatosyocora36@gmail.com (gatosyocora)</managingEditor>
+    <webMaster>gatosyocora36@gmail.com (gatosyocora)</webMaster>
+    <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/index.xml" rel="self" type="application/rss+xml" />
+    
 
+      
+      <item>
+        <title>ブログを移行しました</title>
+        <link>https://blog.gatosyocora.net/posts/first/</link>
+        <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+        <author>gatosyocora36@gmail.com (gatosyocora)</author>
+        <atom:modified>Fri, 19 Nov 2021 00:00:00 +0000</atom:modified>
+        <guid>https://blog.gatosyocora.net/posts/first/</guid>
+        <description>ブログを移行しました。今後はこちらで記事を公開していきます。
+今までの記事もこちらに移動予定です。</description>
         
-      </description>
-    </item>
+        <dc:creator>gatosyocora</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>お知らせ</category>
+            
+          
+        
+        
+      </item>
+      
+
     
   </channel>
 </rss>

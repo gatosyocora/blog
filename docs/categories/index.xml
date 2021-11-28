@@ -1,12 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Categories on がとーしょこらのブログ</title>
+    <title>Categories on gatosyocora&#39;s blog</title>
     <link>https://blog.gatosyocora.net/categories/</link>
-    <description>Recent content in Categories on がとーしょこらのブログ</description>
+    <description>Recent content in Categories on gatosyocora&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <copyright>Copyright © 2021, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.gatosyocora.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <managingEditor>gatosyocora36@gmail.com (gatosyocora)</managingEditor>
+    <webMaster>gatosyocora36@gmail.com (gatosyocora)</webMaster>
+    <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog.gatosyocora.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>お知らせ</title>
+        <link>https://blog.gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+        <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+        <author>gatosyocora36@gmail.com (gatosyocora)</author>
+        
+        <guid>https://blog.gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+        <description></description>
+        
+        <dc:creator>gatosyocora</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
   </channel>
 </rss>
