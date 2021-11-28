@@ -1,16 +1,16 @@
 [[main]]
-  name = "Home"
+  name = "ホーム"
   url = ""
   weight = -110
 
 [[main]]
   identifier = "posts"
-  name = "Posts"
+  name = "投稿"
   url = "posts"
   weight = -109
 
 [[main]]
   identifier = "about"
-  name = "About"
+  name = "関連情報"
   url = "about"
   weight = -107
