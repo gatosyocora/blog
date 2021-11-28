@@ -171,6 +171,7 @@ commento = false
   gitea = ""
   google-scholar = ""
   twitch = ""
+  qiita = "https://qiita.com/gatosyocora"
 
 [donationOptions]
   enable = false # if set, the donation button will show up on the single page.
