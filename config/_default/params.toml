@@ -191,7 +191,6 @@ commento = false
   name = "facebook"
 [[share]]
   name = "twitter"
-  username = ""
 
 [[footerLinks]]
   name = ""
