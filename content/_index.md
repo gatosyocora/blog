@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Gatosyocora's Blog
+      - がとーしょこらの技術録
     subtitle:
-      - gatosyocora's technical blog
+      - gatosyocora's technical record
     titleColor: 
     titleShadow: true
     titleFontSize: 44
