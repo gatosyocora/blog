@@ -2,7 +2,7 @@ baseURL = "https://blog.gatosyocora.net/"
 title = "がとーしょこらのブログ"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = false
 hasCJKLanguage = false
 
