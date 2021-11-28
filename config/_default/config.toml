@@ -1,5 +1,5 @@
 baseURL = "https://blog.gatosyocora.net/"
-title = "がとーしょこらのブログ"
+title = "がとーしょこらの技術録"
 theme = "zzo"
 
 defaultContentLanguage = "ja"
