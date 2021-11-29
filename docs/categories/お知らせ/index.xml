@@ -6,11 +6,11 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>お知らせ on gatosyocora&#39;s blog</title>
+    <title>お知らせ on がとーしょこらの技術録</title>
     <link>https://blog.gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
-    <description>Recent content in お知らせ on gatosyocora&#39;s blog</description>
+    <description>Recent content in お知らせ on がとーしょこらの技術録</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>ja</language>
     <managingEditor>gatosyocora36@gmail.com (gatosyocora)</managingEditor>
     <webMaster>gatosyocora36@gmail.com (gatosyocora)</webMaster>
     <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
