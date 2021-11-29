@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on がとーしょこらの技術録</title>
-    <link>https://blog.gatosyocora.net/posts/</link>
+    <link>https://gatosyocora.net/posts/</link>
     <description>Recent content in Posts on がとーしょこらの技術録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,17 +16,17 @@
     <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
     <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://blog.gatosyocora.net/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://gatosyocora.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>ブログを移行しました</title>
-        <link>https://blog.gatosyocora.net/posts/first/</link>
+        <link>https://gatosyocora.net/posts/first/</link>
         <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         <atom:modified>Fri, 19 Nov 2021 00:00:00 +0000</atom:modified>
-        <guid>https://blog.gatosyocora.net/posts/first/</guid>
+        <guid>https://gatosyocora.net/posts/first/</guid>
         <description>ブログを移行しました。今後はこちらで記事を公開していきます。
 今までの記事もこちらに移動予定です。</description>
         
@@ -47,11 +47,11 @@
       
       <item>
         <title>Editor拡張的にみたUnity2019でできるようになること</title>
-        <link>https://blog.gatosyocora.net/posts/unity2019_editor_extension/</link>
+        <link>https://gatosyocora.net/posts/unity2019_editor_extension/</link>
         <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         <atom:modified>Sat, 24 Jul 2021 00:00:00 +0000</atom:modified>
-        <guid>https://blog.gatosyocora.net/posts/unity2019_editor_extension/</guid>
+        <guid>https://gatosyocora.net/posts/unity2019_editor_extension/</guid>
         <description>VRChatで使用しているUnityEditorのバージョンが2018.4.20f1から2019.4.28f1になります。
 Unity2019になったときにUnityEditor拡張的にはどのようなことができるようになるかを調べてまとめてました。
 他にも見つかれば追記していきます。

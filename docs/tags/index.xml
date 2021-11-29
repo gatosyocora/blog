@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on がとーしょこらの技術録</title>
-    <link>https://blog.gatosyocora.net/tags/</link>
+    <link>https://gatosyocora.net/tags/</link>
     <description>Recent content in Tags on がとーしょこらの技術録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,17 +16,17 @@
     <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
     <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://blog.gatosyocora.net/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://gatosyocora.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Editor拡張</title>
-        <link>https://blog.gatosyocora.net/tags/editor%E6%8B%A1%E5%BC%B5/</link>
+        <link>https://gatosyocora.net/tags/editor%E6%8B%A1%E5%BC%B5/</link>
         <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         
-        <guid>https://blog.gatosyocora.net/tags/editor%E6%8B%A1%E5%BC%B5/</guid>
+        <guid>https://gatosyocora.net/tags/editor%E6%8B%A1%E5%BC%B5/</guid>
         <description></description>
         
         <dc:creator>gatosyocora</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>Unity</title>
-        <link>https://blog.gatosyocora.net/tags/unity/</link>
+        <link>https://gatosyocora.net/tags/unity/</link>
         <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         
-        <guid>https://blog.gatosyocora.net/tags/unity/</guid>
+        <guid>https://gatosyocora.net/tags/unity/</guid>
         <description></description>
         
         <dc:creator>gatosyocora</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>Unity2019</title>
-        <link>https://blog.gatosyocora.net/tags/unity2019/</link>
+        <link>https://gatosyocora.net/tags/unity2019/</link>
         <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         
-        <guid>https://blog.gatosyocora.net/tags/unity2019/</guid>
+        <guid>https://gatosyocora.net/tags/unity2019/</guid>
         <description></description>
         
         <dc:creator>gatosyocora</dc:creator>
