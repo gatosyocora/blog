@@ -7,3 +7,6 @@ tags = ["VRChat", "Unity", "Animator", "AnimatorController"]
 
 VRChat Advent Calender 2021の5日目の記事です。
 https://adventar.org/calendars/6466
+
+AnimatorControllerを整理するためのTipsをいくつか紹介します
+
