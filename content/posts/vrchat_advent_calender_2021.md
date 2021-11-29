@@ -1,6 +1,6 @@
 +++
 title = "VRChat Advent Calender2021用の記事"
-date = "2021-12-5"
+date = "2021-12-05"
 draft = true
 tags = ["VRChat"]
 +++
