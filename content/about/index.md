@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "関連情報"
 date = "2021-11-19"
 description = "Gatosyocora's technical blog"
 type = "about"
