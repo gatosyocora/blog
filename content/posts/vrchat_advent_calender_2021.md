@@ -5,12 +5,10 @@ draft = true
 tags = ["VRChat", "Unity", "Animator", "AnimatorController"]
 +++
 
+## はじめに
+
 VRChat Advent Calender 2021の5日目の記事です。
 https://adventar.org/calendars/6466
-
-AnimatorControllerを整理するためのTipsをいくつか紹介します
-
-## AnyStateを使用する
 
 服を切り替えるギミックを実装していると、魔法陣みたいなことになったことはありませんか。  
 服が増えていくと余計に管理が大変になりますね。
@@ -30,6 +28,8 @@ AnyStateを使うとこんな感じに整理できます。
 * 新しい状態が追加されたときに引く矢印の数が少なくて済む
 
 などのメリットがあります。
+
+## AnyStateはどんな仕組み
 
 変更前は1の状態はDefault, 2, 3, 4, 5に向けた矢印（赤色）とそれぞれから向けられた矢印(水色)があります。他の状態も同じです。
 
@@ -53,6 +53,8 @@ AnyStateを1以外の状態とみなしたときに、これらの状態が1に�
 
 これで変更前のようにすべての状態に向けた矢印とそれらから向けられた矢印を表現できます。
 
+## 注意点
+
 ただし、AnyStateを使う時の注意点は自分自身にも矢印が向いていることです。  
 この状態だとAnyStateと1を常に行き来するような挙動になり、他人に負荷をかけることがあります。
 
@@ -63,11 +65,13 @@ AnyStateを1以外の状態とみなしたときに、これらの状態が1に�
 
 ![](/images/posts/vrchat_advent_calender_2021/can_transition_to_self.png)
 
+## 矢印に設定する遷移条件
+
 矢印に設定する条件は基本的には切り替えるパラメータがそれぞれ0, 1, 2, ...と等しくなったときで良いです。
 
 ![](/images/posts/vrchat_advent_calender_2021/arrows_setting.png)
 
-# 参考
+## 参考
 - [Unityマニュアル アニメーションステート](https://docs.unity3d.com/ja/2019.4/Manual/class-State.html)
 - [【Unity】AnimationControllerのAnyStateを使用してる際、現在のStateへ何度も移動しないようにする](https://tsubakit1.hateblo.jp/entry/2017/01/13/233000)
 - [[VRChat] Avatars3.0で物を出し入れする (EmoteSwitchみたいなもの)](https://gatosyocora.hatenablog.com/entry/2020/08/08/164516)
