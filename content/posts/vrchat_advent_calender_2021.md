@@ -66,3 +66,8 @@ AnyStateを1以外の状態とみなしたときに、これらの状態が1に�
 矢印に設定する条件は基本的には切り替えるパラメータがそれぞれ0, 1, 2, ...と等しくなったときで良いです。
 
 ![](/images/posts/vrchat_advent_calender_2021/arrows_setting.png)
+
+# 参考
+- [Unityマニュアル アニメーションステート](https://docs.unity3d.com/ja/2019.4/Manual/class-State.html)
+- [【Unity】AnimationControllerのAnyStateを使用してる際、現在のStateへ何度も移動しないようにする](https://tsubakit1.hateblo.jp/entry/2017/01/13/233000)
+- [[VRChat] Avatars3.0で物を出し入れする (EmoteSwitchみたいなもの)](https://gatosyocora.hatenablog.com/entry/2020/08/08/164516)
