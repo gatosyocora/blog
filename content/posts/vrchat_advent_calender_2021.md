@@ -1,5 +1,5 @@
 +++
-title = "見やすいAnimatorControllerを目指して"
+title = "AnyStateを使用したAnimatorControllerの整理術"
 date = "2021-12-05"
 draft = true
 tags = ["VRChat", "Unity", "Animator", "AnimatorController"]
