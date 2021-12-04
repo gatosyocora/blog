@@ -1,4 +1,5 @@
 ---
+title: がとーしょこらの技術録
 header:
   - type: typewriter
     methods:
