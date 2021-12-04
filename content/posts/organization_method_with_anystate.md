@@ -5,6 +5,7 @@ draft = true
 categories = ["Unity"]
 tags = ["Unity", "VRChat", "AnimatorController"]
 author = "gatosyocora"
+meta_image = "images/og/organization_method_with_anystate.png"
 +++
 
 ## はじめに
