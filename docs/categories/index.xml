@@ -14,19 +14,19 @@
     <managingEditor>gatosyocora36@gmail.com (gatosyocora)</managingEditor>
     <webMaster>gatosyocora36@gmail.com (gatosyocora)</webMaster>
     <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Dec 2021 00:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://gatosyocora.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>お知らせ</title>
-        <link>https://gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
-        <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+        <title>Unity</title>
+        <link>https://gatosyocora.net/categories/unity/</link>
+        <pubDate>Sun, 05 Dec 2021 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         
-        <guid>https://gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+        <guid>https://gatosyocora.net/categories/unity/</guid>
         <description></description>
         
         <dc:creator>gatosyocora</dc:creator>
@@ -39,12 +39,12 @@
       </item>
       
       <item>
-        <title>Unity</title>
-        <link>https://gatosyocora.net/categories/unity/</link>
-        <pubDate>Sat, 24 Jul 2021 00:00:00 +0900</pubDate>
+        <title>お知らせ</title>
+        <link>https://gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+        <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         
-        <guid>https://gatosyocora.net/categories/unity/</guid>
+        <guid>https://gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
         <description></description>
         
         <dc:creator>gatosyocora</dc:creator>

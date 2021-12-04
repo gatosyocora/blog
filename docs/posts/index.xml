@@ -14,11 +14,49 @@
     <managingEditor>gatosyocora36@gmail.com (gatosyocora)</managingEditor>
     <webMaster>gatosyocora36@gmail.com (gatosyocora)</webMaster>
     <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Dec 2021 00:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://gatosyocora.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>AnyStateを使用したAnimatorControllerの整理術</title>
+        <link>https://gatosyocora.net/posts/organization_method_with_anystate/</link>
+        <pubDate>Sun, 05 Dec 2021 00:00:00 +0900</pubDate>
+        <author>gatosyocora36@gmail.com (gatosyocora)</author>
+        <atom:modified>Sun, 05 Dec 2021 00:00:00 +0900</atom:modified>
+        <guid>https://gatosyocora.net/posts/organization_method_with_anystate/</guid>
+        <description>はじめに VRChat Advent Calender 2021の5日目の記事です。 https://adventar.</description>
+        
+        <dc:creator>gatosyocora</dc:creator>
+        
+        
+        <media:content url="https://gatosyocora.net/images/og/organization_method_with_anystate.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Unity</category>
+            
+          
+            
+              <category>VRChat</category>
+            
+          
+            
+              <category>AnimatorController</category>
+            
+          
+        
+        
+          
+            
+              <category>Unity</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>ブログを移行しました</title>
