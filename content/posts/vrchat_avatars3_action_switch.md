@@ -1,7 +1,10 @@
 +++
 title = "[VRChat] Avatars3.0で物を出し入れする (EmoteSwitchみたいなもの)"
-date = "2020-08-08"
-categories = [ "VRChat", "Avatars3.0" ]
+date = "2020-08-08T00:00:00+09:00"
+tags = [ "Unity", "VRChat", "Avatars3.0" ]
+categories = ["VRChat"]
+author = "gatosyocora"
+meta_image = "images/og/vrchat_avatars3_action_switch.png"
 +++
 
 # はじめに
