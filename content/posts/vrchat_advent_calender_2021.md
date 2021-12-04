@@ -10,12 +10,12 @@ tags = ["VRChat", "Unity", "Animator", "AnimatorController"]
 VRChat Advent Calender 2021の5日目の記事です。
 https://adventar.org/calendars/6466
 
-服を切り替えるギミックを実装していると、魔法陣みたいなことになったことはありませんか。  
-服が増えていくと余計に管理が大変になりますね。
+服などを切り替えるギミックを実装していると、魔法陣みたいなことになったことはありませんか。  
+切り替えるものが増えていくと余計に管理が大変になります。
 
 ![](/images/posts/vrchat_advent_calender_2021/magic_states.png)
 
-こういうときにはAnyStateが使えることが多いです。
+こんなときにはAnyStateが使えることが多いです。
 
 ![](/images/posts/vrchat_advent_calender_2021/any_state.png)
 
@@ -24,30 +24,34 @@ AnyStateを使うとこんな感じに整理できます。
 ![](/images/posts/vrchat_advent_calender_2021/magic_states_after.png)
 
 整理することで
-* 状態遷移がわかりやすくなる
+* 状態の変化がわかりやすくなる
 * 新しい状態が追加されたときに引く矢印の数が少なくて済む
 
 などのメリットがあります。
 
 ## AnyStateはどんな仕組み
 
-変更前は1の状態はDefault, 2, 3, 4, 5に向けた矢印（赤色）とそれぞれから向けられた矢印(水色)があります。他の状態も同じです。
+変更前は1の状態はDefault, 2, 3, 4, 5に向けた矢印（赤色）とそれぞれから向けられた矢印(水色)があります。  
+Default, 2, 3, 4, 5の状態も他の状態に向けた矢印と向けられた矢印があります。
 
 ![](/images/posts/vrchat_advent_calender_2021/magic_states_1_out.png)
 
 ![](/images/posts/vrchat_advent_calender_2021/magic_states_1_in.png)
 
-それに対して、変更後は1の状態はAnyStateから向けられた矢印（水色）のみです。他の状態も同じです。
+それに対して、変更後は1の状態はAnyStateから向けられた矢印（水色）のみです。  
+Default, 2, 3, 4, 5の状態もAnyStateから向けられた矢印のみです。
 
 ![](/images/posts/vrchat_advent_calender_2021/magic_states_after_1.png)
 
-これはAnyStateが「どの状態ともみなせる状態」なのでこのような構成で表現できます。
+これはAnyStateが「どの状態ともみなせるもの」なのでこのような構成で表現できます。
 
-AnyStateを1以外の状態とみなしたときに、これらの状態が1に向けた矢印を向けているようになります。
+AnyStateを1以外の状態とみなしたときに、これらの状態が1に向けた矢印を向けているようになります。  
+つまり今回の例では、Default, 2, 3, 4, 5の状態が1に矢印を向けています。
 
 ![](/images/posts/vrchat_advent_calender_2021/any_state_other_than_1.png)
 
-また、AnyStateを1の状態とみなしたときは、他の状態に矢印を向けているようになります。
+また、AnyStateを1の状態とみなしたときは、他の状態に矢印を向けているようになります。  
+つまり今回の例では、1がDefault, 2, 3, 4, 5の状態に矢印を向けています。
 
 ![](/images/posts/vrchat_advent_calender_2021/any_state_1.png)
 
@@ -55,19 +59,24 @@ AnyStateを1以外の状態とみなしたときに、これらの状態が1に�
 
 ## 注意点
 
-ただし、AnyStateを使う時の注意点は自分自身にも矢印が向いていることです。  
-この状態だとAnyStateと1を常に行き来するような挙動になり、他人に負荷をかけることがあります。
+AnyStateを使う時は**自分自身にも矢印が向いていること**に注意する必要があります。  
+この状態だとAnyStateと1を常に切り替えるような挙動になり、他のユーザーに負荷をかけることがあります。
 
 ![](/images/posts/vrchat_advent_calender_2021/any_state_1_loop.png)
 
 これを回避するためにはAnyStateから伸ばしたそれぞれの矢印の**Can Transition To Self**のチェックを外しておきます。  
-これで自分自身から遷移することがなくなります。
+これで自身の状態から同じ状態に切り替わることがなくなります。
 
 ![](/images/posts/vrchat_advent_calender_2021/can_transition_to_self.png)
 
-## 矢印に設定する遷移条件
+## 矢印に設定する切り替える条件
 
-矢印に設定する条件は基本的には切り替えるパラメータがそれぞれ0, 1, 2, ...と等しくなったときで良いです。
+服などの物を出し入れする場合は、矢印に設定する条件は基本的には「切り替えるパラメータがそれぞれ特定の数値と等しくなったとき」で良いです。
+
+下の例の場合は、**Costume**が切り替えるパラメータでEquals(等しい)で0, 1, 2, ...と比較しています。  
+これによってExpressionMenu[^1]でConstumeの値を1, 2, ...と切り替えたときに服などの表示するオブジェクトが切り替わるようにできます。
+
+[^1]:VRChat内で使用できる円形のメニュー
 
 ![](/images/posts/vrchat_advent_calender_2021/arrows_setting.png)
 
