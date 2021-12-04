@@ -80,6 +80,9 @@ AnyStateを使う時は**自分自身にも矢印が向いていること**に�
 
 ![](/images/posts/vrchat_advent_calender_2021/arrows_setting.png)
 
+服などの物を出し入れするギミックについては以下で解説しているので、こちらをご覧ください。  
+[[VRChat] Avatars3.0で物を出し入れする (EmoteSwitchみたいなもの)](/posts/vrchat_avatars3_action_switch/)
+
 ## 参考
 - [Unityマニュアル アニメーションステート](https://docs.unity3d.com/ja/2019.4/Manual/class-State.html)
 - [【Unity】AnimationControllerのAnyStateを使用してる際、現在のStateへ何度も移動しないようにする](https://tsubakit1.hateblo.jp/entry/2017/01/13/233000)
