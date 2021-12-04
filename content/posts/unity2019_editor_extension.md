@@ -4,6 +4,7 @@ date = "2021-07-24T00:00:00+09:00"
 tags = ["Unity", "Editor拡張", "Unity2019"]
 categories = ["Unity"]
 author = "gatosyocora"
+meta_image = "images/og/unity2019_editor_extension.png"
 +++
 
 VRChatで使用しているUnityEditorのバージョンが2018.4.20f1から2019.4.28f1になります。  
