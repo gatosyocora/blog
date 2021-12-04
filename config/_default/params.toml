@@ -6,6 +6,7 @@ cuctom_css = []
 custom_js = []
 useFaviconGenerator = true
 languagedir = "ltr"
+meta_image = "images/ogp.png"
 
 themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
 notAllowedTypesInHome = ["contact", "talks", "about", "showcase"]
