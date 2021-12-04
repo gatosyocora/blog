@@ -14,7 +14,7 @@
     <managingEditor>gatosyocora36@gmail.com (gatosyocora)</managingEditor>
     <webMaster>gatosyocora36@gmail.com (gatosyocora)</webMaster>
     <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0900</lastBuildDate>
     
         <atom:link href="https://gatosyocora.net/tags/editor%E6%8B%A1%E5%BC%B5/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,9 +23,9 @@
       <item>
         <title>Editor拡張的にみたUnity2019でできるようになること</title>
         <link>https://gatosyocora.net/posts/unity2019_editor_extension/</link>
-        <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 24 Jul 2021 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
-        <atom:modified>Sat, 24 Jul 2021 00:00:00 +0000</atom:modified>
+        <atom:modified>Sat, 24 Jul 2021 00:00:00 +0900</atom:modified>
         <guid>https://gatosyocora.net/posts/unity2019_editor_extension/</guid>
         <description>VRChatで使用しているUnityEditorのバージョンが2018.4.20f1から2019.4.28f1になります。
 Unity2019になったときにUnityEditor拡張的にはどのようなことができるようになるかを調べてまとめてました。
@@ -35,7 +35,7 @@ Unity2019になったときにUnityEditor拡張的にはどのようなことが
         <dc:creator>gatosyocora</dc:creator>
         
         
-        
+        <media:content url="https://gatosyocora.net/images/og/unity2019_editor_extension.png" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             
@@ -51,6 +51,12 @@ Unity2019になったときにUnityEditor拡張的にはどのようなことが
             
           
         
+        
+          
+            
+              <category>Unity</category>
+            
+          
         
         
       </item>

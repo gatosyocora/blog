@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Unity on がとーしょこらの技術録</title>
+    <link>https://gatosyocora.net/categories/unity/</link>
+    <description>Recent content in Unity on がとーしょこらの技術録</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>gatosyocora36@gmail.com (gatosyocora)</managingEditor>
+    <webMaster>gatosyocora36@gmail.com (gatosyocora)</webMaster>
+    <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0900</lastBuildDate>
+    
+        <atom:link href="https://gatosyocora.net/categories/unity/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Editor拡張的にみたUnity2019でできるようになること</title>
+        <link>https://gatosyocora.net/posts/unity2019_editor_extension/</link>
+        <pubDate>Sat, 24 Jul 2021 00:00:00 +0900</pubDate>
+        <author>gatosyocora36@gmail.com (gatosyocora)</author>
+        <atom:modified>Sat, 24 Jul 2021 00:00:00 +0900</atom:modified>
+        <guid>https://gatosyocora.net/posts/unity2019_editor_extension/</guid>
+        <description>VRChatで使用しているUnityEditorのバージョンが2018.4.20f1から2019.4.28f1になります。
+Unity2019になったときにUnityEditor拡張的にはどのようなことができるようになるかを調べてまとめてました。
+他にも見つかれば追記していきます。
+新機能 UIElements Editor拡張のGUI部分をXAML的な記法で作ることができるようになりました。</description>
+        
+        <dc:creator>gatosyocora</dc:creator>
+        
+        
+        <media:content url="https://gatosyocora.net/images/og/unity2019_editor_extension.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        
+          
+            
+              <category>Unity</category>
+            
+          
+            
+              <category>Editor拡張</category>
+            
+          
+            
+              <category>Unity2019</category>
+            
+          
+        
+        
+          
+            
+              <category>Unity</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
