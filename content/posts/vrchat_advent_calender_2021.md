@@ -91,4 +91,3 @@ AnimatorControllerでは他にも[SubStateMachine](https://docs.unity3d.com/ja/2
 ## 参考
 - [Unityマニュアル アニメーションステート](https://docs.unity3d.com/ja/2019.4/Manual/class-State.html)
 - [【Unity】AnimationControllerのAnyStateを使用してる際、現在のStateへ何度も移動しないようにする](https://tsubakit1.hateblo.jp/entry/2017/01/13/233000)
-- [[VRChat] Avatars3.0で物を出し入れする (EmoteSwitchみたいなもの)](https://gatosyocora.hatenablog.com/entry/2020/08/08/164516)
