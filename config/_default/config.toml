@@ -16,7 +16,7 @@ paginate = 10
 rssLimit = 100
 
 enableGitInfo = false
-googleAnalytics = "G-KP1JBN07MT"
+googleAnalytics = "G-8ETEKZT36Z"
 
 languageCode = 'ja'
 publishDir = 'docs'
