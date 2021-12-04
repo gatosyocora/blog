@@ -80,6 +80,36 @@ Unity2019になったときにUnityEditor拡張的にはどのようなことが
         
       </item>
       
+      <item>
+        <title>[VRChat] Avatars3.0で物を出し入れする (EmoteSwitchみたいなもの)</title>
+        <link>https://gatosyocora.net/posts/vrchat_avatars3_action_switch/</link>
+        <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+        <author>gatosyocora36@gmail.com (gatosyocora)</author>
+        <atom:modified>Sat, 08 Aug 2020 00:00:00 +0000</atom:modified>
+        <guid>https://gatosyocora.net/posts/vrchat_avatars3_action_switch/</guid>
+        <description>はじめに これまでのアバター(Avatars2.0)では
+Emote(エモート)機能でオブジェクトを出したり、消したりするギミック（通称：EmoteSwitch）がありました。
+Avatars 3.0ではアクションメニューを拡張してボタンを追加することで、</description>
+        
+        <dc:creator>gatosyocora</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>VRChat</category>
+            
+          
+            
+              <category>Avatars3.0</category>
+            
+          
+        
+        
+      </item>
+      
 
     
   </channel>

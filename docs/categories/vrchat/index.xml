@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>VRChat on がとーしょこらの技術録</title>
+    <link>https://gatosyocora.net/categories/vrchat/</link>
+    <description>Recent content in VRChat on がとーしょこらの技術録</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>gatosyocora36@gmail.com (gatosyocora)</managingEditor>
+    <webMaster>gatosyocora36@gmail.com (gatosyocora)</webMaster>
+    <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://gatosyocora.net/categories/vrchat/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>[VRChat] Avatars3.0で物を出し入れする (EmoteSwitchみたいなもの)</title>
+        <link>https://gatosyocora.net/posts/vrchat_avatars3_action_switch/</link>
+        <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+        <author>gatosyocora36@gmail.com (gatosyocora)</author>
+        <atom:modified>Sat, 08 Aug 2020 00:00:00 +0000</atom:modified>
+        <guid>https://gatosyocora.net/posts/vrchat_avatars3_action_switch/</guid>
+        <description>はじめに これまでのアバター(Avatars2.0)では
+Emote(エモート)機能でオブジェクトを出したり、消したりするギミック（通称：EmoteSwitch）がありました。
+Avatars 3.0ではアクションメニューを拡張してボタンを追加することで、</description>
+        
+        <dc:creator>gatosyocora</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>VRChat</category>
+            
+          
+            
+              <category>Avatars3.0</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
