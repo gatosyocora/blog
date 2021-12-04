@@ -112,4 +112,5 @@ header:
         titleFontSize: 44
         subtitleFontSize: 16
         spaceBetweenTitleSubtitle: 20
+meta_image: images/ogp.png
 ---
