@@ -1,7 +1,8 @@
 +++
 title = "AnyStateを使用したAnimatorControllerの整理術"
-date = "2021-12-05"
+date = "2021-12-05T00:00:00+09:00"
 draft = true
+categories = ["Unity"]
 tags = ["VRChat", "Unity", "Animator", "AnimatorController"]
 +++
 
