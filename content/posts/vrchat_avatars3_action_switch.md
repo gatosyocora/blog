@@ -4,6 +4,7 @@ date = "2020-08-08T00:00:00+09:00"
 tags = [ "Unity", "VRChat", "Avatars3.0" ]
 categories = ["VRChat"]
 author = "gatosyocora"
+description = "VRChatのAvatars3.0でEmoteSwitchのようなオブジェクトの出し入れをするギミックを実装する方法を解説します"
 meta_image = "images/og/vrchat_avatars3_action_switch.png"
 +++
 

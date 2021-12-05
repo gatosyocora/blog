@@ -4,6 +4,7 @@ date = "2021-12-05T00:00:00+09:00"
 categories = ["Unity"]
 tags = ["Unity", "VRChat", "AnimatorController"]
 author = "gatosyocora"
+description = "VRChatで服などのオブジェクトを出し入れするギミックを組んだ時にAnimatorControllerのStateが複雑になってしまうことがあります。これをUnityのAnimatorControllerの機能であるAnyStateを使用して解消する方法を紹介します"
 meta_image = "images/og/organization_method_with_anystate.png"
 +++
 
