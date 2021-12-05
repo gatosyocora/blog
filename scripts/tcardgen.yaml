@@ -1,39 +1,39 @@
 template: static/images/ogp_template.png
 title:
   start:
-    px: 20
-    pY: 70
+    px: 80
+    pY: 280
   fgHexColor: "#FFFFFF"
-  fontSize: 14
+  fontSize: 64
   fontStyle: Bold
-  maxWidth: 260
+  maxWidth: 1040
   lineSpacing: 10
 category:
   start:
-    px: 20
-    py: 50
+    px: 80
+    py: 200
   fgHexColor: "#E5B52A"
-  fontSize: 12
+  fontSize: 48
   fontStyle: Regular
 info:
   start:
-    px: 45
-    py: 10
+    px: 180
+    py: 40
   fgHexColor: "#A0A0A0"
-  fontSize: 14
+  fontSize: 64
   fontStyle: Regular
 tags:
   start:
-    px: 20
-    py: 125
+    px: 80
+    py: 500
   fgHexColor: "#FFFFFF"
   bgHexColor: "#7F7776"
-  fontSize: 12
+  fontSize: 48
   fontStyle: Medium
   boxAlign: Left
-  boxSpacing: 6
+  boxSpacing: 24
   boxPadding:
-    top: 2
-    right: 2
-    bottom: 2
-    left: 2
+    top: 8
+    right: 8
+    bottom: 8
+    left: 8
