@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>お知らせ on がとーしょこらの技術録</title>
-    <link>https://gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+    <link>//gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
     <description>Recent content in お知らせ on がとーしょこらの技術録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,17 +16,17 @@
     <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
     <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="//gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>ブログを移行しました</title>
-        <link>https://gatosyocora.net/posts/first/</link>
+        <link>//gatosyocora.net/posts/first/</link>
         <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         <atom:modified>Fri, 19 Nov 2021 00:00:00 +0000</atom:modified>
-        <guid>https://gatosyocora.net/posts/first/</guid>
+        <guid>//gatosyocora.net/posts/first/</guid>
         <description>ブログを移行しました。今後はこちらで記事を公開していきます。
 今までの記事もこちらに移動予定です。</description>
         

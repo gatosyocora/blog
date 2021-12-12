@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>VRChat on がとーしょこらの技術録</title>
-    <link>https://gatosyocora.net/categories/vrchat/</link>
+    <link>//gatosyocora.net/categories/vrchat/</link>
     <description>Recent content in VRChat on がとーしょこらの技術録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,17 +16,17 @@
     <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
     <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0900</lastBuildDate>
     
-        <atom:link href="https://gatosyocora.net/categories/vrchat/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="//gatosyocora.net/categories/vrchat/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>[VRChat] Avatars3.0で物を出し入れする (EmoteSwitchみたいなもの)</title>
-        <link>https://gatosyocora.net/posts/vrchat_avatars3_action_switch/</link>
+        <link>//gatosyocora.net/posts/vrchat_avatars3_action_switch/</link>
         <pubDate>Sat, 08 Aug 2020 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         <atom:modified>Sat, 08 Aug 2020 00:00:00 +0900</atom:modified>
-        <guid>https://gatosyocora.net/posts/vrchat_avatars3_action_switch/</guid>
+        <guid>//gatosyocora.net/posts/vrchat_avatars3_action_switch/</guid>
         <description>はじめに これまでのアバター(Avatars2.0)では
 Emote(エモート)機能でオブジェクトを出したり、消したりするギミック（通称：EmoteSwitch）がありました。
 Avatars 3.0ではアクションメニューを拡張してボタンを追加することで、</description>
@@ -34,7 +34,7 @@ Avatars 3.0ではアクションメニューを拡張してボタンを追加す
         <dc:creator>gatosyocora</dc:creator>
         
         
-        <media:content url="https://gatosyocora.net/images/og/vrchat_avatars3_action_switch.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <media:content url="//gatosyocora.net/images/og/vrchat_avatars3_action_switch.png" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             

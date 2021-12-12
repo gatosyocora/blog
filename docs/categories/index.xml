@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on がとーしょこらの技術録</title>
-    <link>https://gatosyocora.net/categories/</link>
+    <link>//gatosyocora.net/categories/</link>
     <description>Recent content in Categories on がとーしょこらの技術録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,17 +16,17 @@
     <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
     <lastBuildDate>Sun, 05 Dec 2021 00:00:00 +0900</lastBuildDate>
     
-        <atom:link href="https://gatosyocora.net/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="//gatosyocora.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Unity</title>
-        <link>https://gatosyocora.net/categories/unity/</link>
+        <link>//gatosyocora.net/categories/unity/</link>
         <pubDate>Sun, 05 Dec 2021 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         
-        <guid>https://gatosyocora.net/categories/unity/</guid>
+        <guid>//gatosyocora.net/categories/unity/</guid>
         <description></description>
         
         <dc:creator>gatosyocora</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>お知らせ</title>
-        <link>https://gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+        <link>//gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
         <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         
-        <guid>https://gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+        <guid>//gatosyocora.net/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
         <description></description>
         
         <dc:creator>gatosyocora</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>VRChat</title>
-        <link>https://gatosyocora.net/categories/vrchat/</link>
+        <link>//gatosyocora.net/categories/vrchat/</link>
         <pubDate>Sat, 08 Aug 2020 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         
-        <guid>https://gatosyocora.net/categories/vrchat/</guid>
+        <guid>//gatosyocora.net/categories/vrchat/</guid>
         <description></description>
         
         <dc:creator>gatosyocora</dc:creator>
