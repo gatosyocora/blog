@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on がとーしょこらの技術録</title>
-    <link>//gatosyocora.net/tags/</link>
+    <link>https://gatosyocora.net/tags/</link>
     <description>Recent content in Tags on がとーしょこらの技術録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,17 +16,17 @@
     <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
     <lastBuildDate>Sun, 05 Dec 2021 00:00:00 +0900</lastBuildDate>
     
-        <atom:link href="//gatosyocora.net/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://gatosyocora.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>AnimatorController</title>
-        <link>//gatosyocora.net/tags/animatorcontroller/</link>
+        <link>https://gatosyocora.net/tags/animatorcontroller/</link>
         <pubDate>Sun, 05 Dec 2021 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         
-        <guid>//gatosyocora.net/tags/animatorcontroller/</guid>
+        <guid>https://gatosyocora.net/tags/animatorcontroller/</guid>
         <description></description>
         
         <dc:creator>gatosyocora</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>Unity</title>
-        <link>//gatosyocora.net/tags/unity/</link>
+        <link>https://gatosyocora.net/tags/unity/</link>
         <pubDate>Sun, 05 Dec 2021 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         
-        <guid>//gatosyocora.net/tags/unity/</guid>
+        <guid>https://gatosyocora.net/tags/unity/</guid>
         <description></description>
         
         <dc:creator>gatosyocora</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>VRChat</title>
-        <link>//gatosyocora.net/tags/vrchat/</link>
+        <link>https://gatosyocora.net/tags/vrchat/</link>
         <pubDate>Sun, 05 Dec 2021 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         
-        <guid>//gatosyocora.net/tags/vrchat/</guid>
+        <guid>https://gatosyocora.net/tags/vrchat/</guid>
         <description></description>
         
         <dc:creator>gatosyocora</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>Editor拡張</title>
-        <link>//gatosyocora.net/tags/editor%E6%8B%A1%E5%BC%B5/</link>
+        <link>https://gatosyocora.net/tags/editor%E6%8B%A1%E5%BC%B5/</link>
         <pubDate>Sat, 24 Jul 2021 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         
-        <guid>//gatosyocora.net/tags/editor%E6%8B%A1%E5%BC%B5/</guid>
+        <guid>https://gatosyocora.net/tags/editor%E6%8B%A1%E5%BC%B5/</guid>
         <description></description>
         
         <dc:creator>gatosyocora</dc:creator>
@@ -94,11 +94,11 @@
       
       <item>
         <title>Unity2019</title>
-        <link>//gatosyocora.net/tags/unity2019/</link>
+        <link>https://gatosyocora.net/tags/unity2019/</link>
         <pubDate>Sat, 24 Jul 2021 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         
-        <guid>//gatosyocora.net/tags/unity2019/</guid>
+        <guid>https://gatosyocora.net/tags/unity2019/</guid>
         <description></description>
         
         <dc:creator>gatosyocora</dc:creator>
@@ -112,11 +112,11 @@
       
       <item>
         <title>Avatars3.0</title>
-        <link>//gatosyocora.net/tags/avatars3.0/</link>
+        <link>https://gatosyocora.net/tags/avatars3.0/</link>
         <pubDate>Sat, 08 Aug 2020 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         
-        <guid>//gatosyocora.net/tags/avatars3.0/</guid>
+        <guid>https://gatosyocora.net/tags/avatars3.0/</guid>
         <description></description>
         
         <dc:creator>gatosyocora</dc:creator>

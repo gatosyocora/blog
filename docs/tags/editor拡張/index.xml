@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Editor拡張 on がとーしょこらの技術録</title>
-    <link>//gatosyocora.net/tags/editor%E6%8B%A1%E5%BC%B5/</link>
+    <link>https://gatosyocora.net/tags/editor%E6%8B%A1%E5%BC%B5/</link>
     <description>Recent content in Editor拡張 on がとーしょこらの技術録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,17 +16,17 @@
     <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
     <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0900</lastBuildDate>
     
-        <atom:link href="//gatosyocora.net/tags/editor%E6%8B%A1%E5%BC%B5/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://gatosyocora.net/tags/editor%E6%8B%A1%E5%BC%B5/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Editor拡張的にみたUnity2019でできるようになること</title>
-        <link>//gatosyocora.net/posts/unity2019_editor_extension/</link>
+        <link>https://gatosyocora.net/posts/unity2019_editor_extension/</link>
         <pubDate>Sat, 24 Jul 2021 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         <atom:modified>Sat, 24 Jul 2021 00:00:00 +0900</atom:modified>
-        <guid>//gatosyocora.net/posts/unity2019_editor_extension/</guid>
+        <guid>https://gatosyocora.net/posts/unity2019_editor_extension/</guid>
         <description>VRChatで使用しているUnityEditorのバージョンが2018.4.20f1から2019.4.28f1になります。
 Unity2019になったときにUnityEditor拡張的にはどのようなことができるようになるかを調べてまとめてました。
 他にも見つかれば追記していきます。
@@ -35,7 +35,7 @@ Unity2019になったときにUnityEditor拡張的にはどのようなことが
         <dc:creator>gatosyocora</dc:creator>
         
         
-        <media:content url="//gatosyocora.net/images/og/unity2019_editor_extension.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <media:content url="https://gatosyocora.net/images/og/unity2019_editor_extension.png" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             

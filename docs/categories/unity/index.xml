@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Unity on がとーしょこらの技術録</title>
-    <link>//gatosyocora.net/categories/unity/</link>
+    <link>https://gatosyocora.net/categories/unity/</link>
     <description>Recent content in Unity on がとーしょこらの技術録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,23 +16,23 @@
     <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
     <lastBuildDate>Sun, 05 Dec 2021 00:00:00 +0900</lastBuildDate>
     
-        <atom:link href="//gatosyocora.net/categories/unity/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://gatosyocora.net/categories/unity/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>AnyStateを使用したAnimatorControllerの整理術</title>
-        <link>//gatosyocora.net/posts/organization_method_with_anystate/</link>
+        <link>https://gatosyocora.net/posts/organization_method_with_anystate/</link>
         <pubDate>Sun, 05 Dec 2021 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         <atom:modified>Sun, 05 Dec 2021 00:00:00 +0900</atom:modified>
-        <guid>//gatosyocora.net/posts/organization_method_with_anystate/</guid>
+        <guid>https://gatosyocora.net/posts/organization_method_with_anystate/</guid>
         <description>はじめに VRChat Advent Calender 2021の5日目の記事です。 https://adventar.</description>
         
         <dc:creator>gatosyocora</dc:creator>
         
         
-        <media:content url="//gatosyocora.net/images/og/organization_method_with_anystate.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <media:content url="https://gatosyocora.net/images/og/organization_method_with_anystate.png" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             
@@ -60,11 +60,11 @@
       
       <item>
         <title>Editor拡張的にみたUnity2019でできるようになること</title>
-        <link>//gatosyocora.net/posts/unity2019_editor_extension/</link>
+        <link>https://gatosyocora.net/posts/unity2019_editor_extension/</link>
         <pubDate>Sat, 24 Jul 2021 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         <atom:modified>Sat, 24 Jul 2021 00:00:00 +0900</atom:modified>
-        <guid>//gatosyocora.net/posts/unity2019_editor_extension/</guid>
+        <guid>https://gatosyocora.net/posts/unity2019_editor_extension/</guid>
         <description>VRChatで使用しているUnityEditorのバージョンが2018.4.20f1から2019.4.28f1になります。
 Unity2019になったときにUnityEditor拡張的にはどのようなことができるようになるかを調べてまとめてました。
 他にも見つかれば追記していきます。
@@ -73,7 +73,7 @@ Unity2019になったときにUnityEditor拡張的にはどのようなことが
         <dc:creator>gatosyocora</dc:creator>
         
         
-        <media:content url="//gatosyocora.net/images/og/unity2019_editor_extension.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <media:content url="https://gatosyocora.net/images/og/unity2019_editor_extension.png" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             

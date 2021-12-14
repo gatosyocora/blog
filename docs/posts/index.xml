@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on がとーしょこらの技術録</title>
-    <link>//gatosyocora.net/posts/</link>
+    <link>https://gatosyocora.net/posts/</link>
     <description>Recent content in Posts on がとーしょこらの技術録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
@@ -16,23 +16,23 @@
     <copyright>Copyright © 2021, gatosyocora; all rights reserved.</copyright>
     <lastBuildDate>Sun, 05 Dec 2021 00:00:00 +0900</lastBuildDate>
     
-        <atom:link href="//gatosyocora.net/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://gatosyocora.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>AnyStateを使用したAnimatorControllerの整理術</title>
-        <link>//gatosyocora.net/posts/organization_method_with_anystate/</link>
+        <link>https://gatosyocora.net/posts/organization_method_with_anystate/</link>
         <pubDate>Sun, 05 Dec 2021 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         <atom:modified>Sun, 05 Dec 2021 00:00:00 +0900</atom:modified>
-        <guid>//gatosyocora.net/posts/organization_method_with_anystate/</guid>
+        <guid>https://gatosyocora.net/posts/organization_method_with_anystate/</guid>
         <description>はじめに VRChat Advent Calender 2021の5日目の記事です。 https://adventar.</description>
         
         <dc:creator>gatosyocora</dc:creator>
         
         
-        <media:content url="//gatosyocora.net/images/og/organization_method_with_anystate.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <media:content url="https://gatosyocora.net/images/og/organization_method_with_anystate.png" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             
@@ -60,11 +60,11 @@
       
       <item>
         <title>ブログを移行しました</title>
-        <link>//gatosyocora.net/posts/first/</link>
+        <link>https://gatosyocora.net/posts/first/</link>
         <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         <atom:modified>Fri, 19 Nov 2021 00:00:00 +0000</atom:modified>
-        <guid>//gatosyocora.net/posts/first/</guid>
+        <guid>https://gatosyocora.net/posts/first/</guid>
         <description>ブログを移行しました。今後はこちらで記事を公開していきます。
 今までの記事もこちらに移動予定です。</description>
         
@@ -85,11 +85,11 @@
       
       <item>
         <title>Editor拡張的にみたUnity2019でできるようになること</title>
-        <link>//gatosyocora.net/posts/unity2019_editor_extension/</link>
+        <link>https://gatosyocora.net/posts/unity2019_editor_extension/</link>
         <pubDate>Sat, 24 Jul 2021 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         <atom:modified>Sat, 24 Jul 2021 00:00:00 +0900</atom:modified>
-        <guid>//gatosyocora.net/posts/unity2019_editor_extension/</guid>
+        <guid>https://gatosyocora.net/posts/unity2019_editor_extension/</guid>
         <description>VRChatで使用しているUnityEditorのバージョンが2018.4.20f1から2019.4.28f1になります。
 Unity2019になったときにUnityEditor拡張的にはどのようなことができるようになるかを調べてまとめてました。
 他にも見つかれば追記していきます。
@@ -98,7 +98,7 @@ Unity2019になったときにUnityEditor拡張的にはどのようなことが
         <dc:creator>gatosyocora</dc:creator>
         
         
-        <media:content url="//gatosyocora.net/images/og/unity2019_editor_extension.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <media:content url="https://gatosyocora.net/images/og/unity2019_editor_extension.png" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             
@@ -126,11 +126,11 @@ Unity2019になったときにUnityEditor拡張的にはどのようなことが
       
       <item>
         <title>[VRChat] Avatars3.0で物を出し入れする (EmoteSwitchみたいなもの)</title>
-        <link>//gatosyocora.net/posts/vrchat_avatars3_action_switch/</link>
+        <link>https://gatosyocora.net/posts/vrchat_avatars3_action_switch/</link>
         <pubDate>Sat, 08 Aug 2020 00:00:00 +0900</pubDate>
         <author>gatosyocora36@gmail.com (gatosyocora)</author>
         <atom:modified>Sat, 08 Aug 2020 00:00:00 +0900</atom:modified>
-        <guid>//gatosyocora.net/posts/vrchat_avatars3_action_switch/</guid>
+        <guid>https://gatosyocora.net/posts/vrchat_avatars3_action_switch/</guid>
         <description>はじめに これまでのアバター(Avatars2.0)では
 Emote(エモート)機能でオブジェクトを出したり、消したりするギミック（通称：EmoteSwitch）がありました。
 Avatars 3.0ではアクションメニューを拡張してボタンを追加することで、</description>
@@ -138,7 +138,7 @@ Avatars 3.0ではアクションメニューを拡張してボタンを追加す
         <dc:creator>gatosyocora</dc:creator>
         
         
-        <media:content url="//gatosyocora.net/images/og/vrchat_avatars3_action_switch.png" medium="image"><media:title type="html">meta image</media:title></media:content>
+        <media:content url="https://gatosyocora.net/images/og/vrchat_avatars3_action_switch.png" medium="image"><media:title type="html">meta image</media:title></media:content>
         
           
             
